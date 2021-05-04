@@ -22,6 +22,6 @@ public class MainApplication {
         }
 
         binaryTree.order();
-        System.out.println("Total de palavras diferentes no dicionario: " + binaryTree.getAmount());
+        System.out.println("Total different words in the dictionary: " + binaryTree.getAmount());
     }
 }
